@@ -6,3 +6,9 @@
 body {
   padding-top: 56px;
 }
+
+
+.panel-footer.panel-custom {
+    background: #bd4a70;
+    color: #bd4a70;
+}
