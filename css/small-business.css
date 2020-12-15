@@ -7,6 +7,9 @@ body {
   padding-top: 56px;
 }
 
+.navbar-default .navbar-nav > .active{
+    color: white;
+}
 
 .panel-footer.panel-custom {
     background: #bd4a70;
